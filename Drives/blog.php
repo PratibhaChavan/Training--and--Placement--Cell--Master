@@ -147,7 +147,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<a href="products.php">Campus Drives</a>
 						</li>
 						<li>
-							<a href="../Gallery/index.html">Gallery</a>
+							<a href="404.php">Events</a>
 						</li>
 						<li>
 							<a href="mail.php">Mail Us</a>
@@ -185,8 +185,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyrights © 2015 CIT-PMS . Developed by
+						<a href="http://wafferdevelopers.com/">Waffer Developers</a>
+					</p>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

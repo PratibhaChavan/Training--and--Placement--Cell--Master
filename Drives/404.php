@@ -1,10 +1,8 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html>
 <head>
-	<!--favicon-->
-        <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">
-<title>Drives :: About</title>
+<title>Events</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Tillage Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -44,16 +42,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
 							</li>
-							<li class="hvr-sweep-to-bottom active">
+							<li class="hvr-sweep-to-bottom">
 								<a href="about.php">About<i>About Us and our Cheif Architects</i></a>
 							</li>
 							<li class="hvr-sweep-to-bottom">
 								<a href="products.php">Campus Drives<i>Campus Drives</i></a>
-							</li>							
+							</li>
+							<li class="hvr-sweep-to-bottom active">
+								<a href="404.php">Events<i>Upcomming Events and on going</i></a>
+							</li>
 							<li class="hvr-sweep-to-bottom">
 								<a href="mail.php">Mail Us<i>Get in Touch with us Instantly</i></a>
 							</li>
-							<div class="clearfix"></div>
 						<div class="clearfix"> </div>
 					</ul>
 					<!-- script-for-menu -->
@@ -72,65 +72,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- //container -->
 	</div>
 	<!-- //banner -->
-	<!-- about -->
-	<div class="about-top">
+	<!-- 404 -->
+	<div class="e-page">
 		<!-- container -->
 		<div class="container">
-			<div class="about-info wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-				<h3>A few words about us</h3>
-				<h5>This is what tells about who we are and about Pioneers of the Institution </span></h5>
-			</div>
-			<div class="banner-bottom-grids a-banner-bottom-grids">
-				<div class="col-md-5 banner-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					<img src="images/a1.jpg" alt="">
-				</div>
-				<div class="col-md-7 a-banner-bottom-text">
-					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					  <h3>Placement and Training Department</h3>
-						<h5></span></h5>
-						<p>Our Institute is located near Tumkur, a well known place of learning. Our college is affiliated to Visvesvaraya Technological University, Belgaum (Karnataka), recognized by AICTE, New Delhi, & by Government of Karnataka. Within a short span of 10 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated A Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
-						</p>
-					</div>
-					
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		
-		<div class="about-top">
-		<!-- container -->
-		<div class="container">
-			<div class="about-info wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-				
-			</div>
-			<div class="banner-bottom-grids a-banner-bottom-grids">
-				<div class="col-md-5 banner-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					<img src="images/a1.jpg" alt="">
-				</div>
-				<div class="col-md-7 a-banner-bottom-text">
-					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					  
-						<h5></span></h5>
-						<p>Our Institute is located near Tumkur, a well known place of learning. Our college is affiliated to Visvesvaraya Technological University, Belgaum (Karnataka), recognized by AICTE, New Delhi, & by Government of Karnataka. Within a short span of 10 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated A Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
-						</p>
-					</div>
-					
-				</div>
-				<div class="clearfix"> </div>
+			<h3 class="wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">404</h3>
+			<h5 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Oh Page Not Found</h5>
+			<p class="wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Please check the URL and try your luck again..</p>
+			<div class="see-button">
+				<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal specialty-button e-button footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;" href="index.html" role="button">Tack Me Home</a>
 			</div>
 		</div>
 		<!-- //container -->
 	</div>
-	<!-- //about -->
-	<!-- about-bottom -->
-	<div class="about-bottom">
-		<!-- container -->
-		
-		<!-- //container -->
-	</div>
-	<!-- //about-bottom -->
-	<!-- team -->
-	
+	<!-- //404 -->
 	<!-- footer -->
 		<div class="footer">
 			<!-- container -->
@@ -147,7 +102,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<a href="products.php">Campus Drives</a>
 						</li>
 						<li>
-							<a href="../Gallery/index.html">Gallery</a>
+							<a href="404.php">Events</a>
 						</li>
 						<li>
 							<a href="mail.php">Mail Us</a>
@@ -185,8 +140,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyrights © 2015 CIT-PMS . Developed by
+						<a href="http://wafferdevelopers.com/">Waffer Developers</a>
+					</p>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>
@@ -212,7 +168,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<!-- //container -->
-		</div>
+	
+		
+	</div>
 </body>
 </html>
